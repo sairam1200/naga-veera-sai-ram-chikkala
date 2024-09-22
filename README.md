@@ -1,4 +1,4 @@
-# Repository Name: California Housing Price Prediction: Evaluation of Machine Learning Regressors\
+# Repository Name: California Housing Price Prediction: Evaluation of Machine Learning Regressors
 
 # Description:
 
