@@ -2,7 +2,7 @@
 
 # Description:
 
-This repository contains the implementation and evaluation of various machine learning regressors on the California Housing dataset. The models evaluated include Linear Regression, Decision Tree Regressor, Random Forest Regressor, and Support Vector Machine Regressor (SVR). The goal is to compare the performance of these models using key metrics such as Mean Squared Error (MSE) and R-squared (R²), and to determine which regressor is the most accurate for predicting housing prices.
+This repository contains the implementation and evaluation of various machine learning regressors . The models evaluated include Linear Regression, Decision Tree Regressor, Random Forest Regressor, and Support Vector Machine Regressor (SVR). The goal is to compare the performance of these models using key metrics and to determine which regressor is the most accurate for predicting.
 
 Key Features:
 
